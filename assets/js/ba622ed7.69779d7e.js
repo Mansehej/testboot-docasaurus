@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestbook_docasaurus=self.webpackChunktestbook_docasaurus||[]).push([[4568],{2337:function(o){o.exports=JSON.parse('{"permalink":"/testboot-docasaurus/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

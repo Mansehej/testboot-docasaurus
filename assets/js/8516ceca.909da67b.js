@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestbook_docasaurus=self.webpackChunktestbook_docasaurus||[]).push([[9355],{1336:function(o){o.exports=JSON.parse('{"permalink":"/testboot-docasaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
