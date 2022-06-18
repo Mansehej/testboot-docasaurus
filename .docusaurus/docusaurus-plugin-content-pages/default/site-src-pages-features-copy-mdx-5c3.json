@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/features%20copy",
+  "source": "@site/src/pages/features copy.mdx",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/maths",
+  "source": "@site/src/pages/maths.mdx",
+  "description": "I am writing equations here",
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}
