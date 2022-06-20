@@ -8,13 +8,13 @@ const katex = require("rehype-katex");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "TeXtbook",
+  tagline: "By Kalvi education",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/testboot-docasaurus/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "https://kalvieducation.com/assets/imgs/favicon.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -72,10 +72,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        // title: "teXtbook",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "https://kalvieducation.com/assets/imgs/kalvi-logo.png",
         },
         items: [
           {
